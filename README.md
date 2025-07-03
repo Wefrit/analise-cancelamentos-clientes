@@ -1,6 +1,7 @@
 # 📊 Análise de Cancelamentos de Clientes
 
 Este projeto tem como objetivo identificar os principais motivos que levam clientes a cancelarem serviços. A análise é feita com base em uma base de dados fictícia usando Python, `pandas` e `plotly`.
+Projeto baseado em curso da hashtag treinamentos.
 
 ## 🧠 O que o projeto faz
 
